@@ -1,6 +1,6 @@
 # alerts-infra
 
-[![CI](https://github.com/Sitkowski01/alerts-infra/actions/workflows/ci.yml/badge.svg)](https://github.com/Sitkowski01/alerts-infra/actions/workflows/ci.yml)
+[![CI](https://github.com/Sitkowski01/price-alerts-infra/actions/workflows/ci.yml/badge.svg)](https://github.com/Sitkowski01/price-alerts-infra/actions/workflows/ci.yml)
 
 Infrastruktura jako kod dla [price-alerts-api](https://github.com/Sitkowski01/price-alerts-api):
 **Terraform** stawia na AWS jednowęzłowy klaster **k3s** na EC2, na który wchodzą
