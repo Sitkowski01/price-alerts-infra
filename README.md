@@ -1,4 +1,4 @@
-# alerts-infra
+# price-alerts-infra
 
 [![CI](https://github.com/Sitkowski01/price-alerts-infra/actions/workflows/ci.yml/badge.svg)](https://github.com/Sitkowski01/price-alerts-infra/actions/workflows/ci.yml)
 
